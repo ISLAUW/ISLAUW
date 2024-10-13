@@ -3,12 +3,18 @@
 
 - 🔭 I’m currently working on **finding my first full-time job**
 
+- 📝 I regularly write articles on [www.linkedin.com/in/haitian-isla-zhang](www.linkedin.com/in/haitian-isla-zhang)
+
+- 💬 Ask me about **Multivariate Statistical Analysis**
+
 - 📫 How to reach me **haitian.zhang@uwaterloo.ca**
 
 - ⚡ Fun fact **New Mom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/haitian (isla) zhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haitian (isla) zhang" height="30" width="40" /></a>
+<a href="https://instagram.com/islazhang0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islazhang0504" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
