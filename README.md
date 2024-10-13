@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **finding my first full-time job**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/haitian-isla-zhang](www.linkedin.com/in/haitian-isla-zhang)
+- 📝 My experience can be found on [www.linkedin.com/in/haitian-isla-zhang](www.linkedin.com/in/haitian-isla-zhang)
 
 - 💬 Ask me about **Multivariate Statistical Analysis**
 
 - 📫 How to reach me **haitian.zhang@uwaterloo.ca**
 
-- ⚡ Fun fact **New Mom**
+- ⚡ Some of my research work: [Concurrent Multilayer Fault Monitoring with Nonlinear Latent Variable Regression](https://github.com/ISLAUW/Concurrent-Multilayer-Fault-Monitoring-with-Nonlinear-Latent-Variable-Regression)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
