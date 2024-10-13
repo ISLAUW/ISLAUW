@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finding my first full-time job**
 
-- 📝 My experience can be found on [www.linkedin.com/in/haitian-isla-zhang](www.linkedin.com/in/haitian-isla-zhang)
+- 📝 My experience can be found on [www.linkedin.com/in/haitian-isla-zhang](https://www.linkedin.com/in/haitian-isla-zhang)
 
 - 💬 Ask me about **Multivariate Statistical Analysis**
 
