@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **haitian.zhang@uwaterloo.ca**
 
-- ⚡ Some of my research work: [Concurrent Multilayer Fault Monitoring with Nonlinear Latent Variable Regression](https://github.com/ISLAUW/Concurrent-Multilayer-Fault-Monitoring-with-Nonlinear-Latent-Variable-Regression)
+- ⚡ Some of my research work: [Concurrent Multilayer Fault Monitoring with Nonlinear Latent Variable Regression](https://github.com/ISLAUW/Concurrent-Multilayer-Fault-Monitoring-with-Nonlinear-Latent-Variable-Regression), [DALVR-based Fault Diagnosis and Causal Analysis Framework](https://github.com/ISLAUW/DALVR-based-Fault-Diagnosis-and-Causal-Analysis-Framework), [Improved Autoencoder with Dynamic Hidden Layer for Anomaly Detection Monitoring](https://github.com/ISLAUW/Improved-Autoencoder-with-Dynamic-Hidden-Layer-for-Anomaly-Detection-Monitoring)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
